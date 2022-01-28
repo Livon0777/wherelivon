@@ -1,0 +1,40 @@
+body{
+  background-image: url('./Wood\ dry\ cracked\ bench\ tree\ bark\ texture.jpg');
+  background-size: 1600px 1056px;
+  text-align: center ;
+}
+h1{
+  font-family: 'Mochiy Pop P One', sans-serif;
+  font-size: 60px;
+  
+  
+  color: #816245;
+  text-shadow: 0 0 20px white;
+  text-align: center;
+ }
+ p{
+   color: #ffffff;
+   font-family: 'Dancing Script', cursive;  
+   font-size: 30px;
+   text-shadow: 0 0 10px red;
+   
+ }
+ h2{
+  font-family: 'Mochiy Pop P One', sans-serif;
+  color: #4f3b20 ;
+  text-shadow: 0 0 10px white;
+   font-size: 40px;
+   text-decoration: underline dashed;
+  text-shadow: 0 0 20px white;
+ }
+ div{
+   color: white;
+   text-shadow: 0 0 30px red;
+   font-size: 50px;
+   background-color: black;
+   font-family: 'Neonderthaw', cursive;
+   border-radius: 10px;
+   box-shadow: 0 0 20px blue;
+  }   
+
+  
